@@ -1,4 +1,3 @@
-# Desarrollo_Web_Parcial1
 # U.R.E.S.A. - Universal Real Estate & Experiences
 
 **Desarrollado por:** Danna Velandia 192478 y Shary Jimenez  192467
@@ -25,11 +24,6 @@ js/            # Lógica de aplicación
 data/          # Datos en JSON
 img/           # Recursos visuales
 ```
-
-### Login
-- **Usuario:** `ciudadano@uresa.com`
-- **Contraseña:** `universo2024`
-- *Solo fines educativos*
 
 ## Tecnologías
 - HTML5 + Web Components
